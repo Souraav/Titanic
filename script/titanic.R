@@ -1,6 +1,6 @@
 #Setup directory
 setwd("D:/Kaggle/")
-training <- read.csv("D:/Kaggle/Titanic/input/train.csv")
+train <- read.csv("D:/Kaggle/Titanic/input/train.csv")
 test<- read.csv("D:/Kaggle/Titanic/input/test.csv")
 
 # Install and load required packages for decision trees and forests
